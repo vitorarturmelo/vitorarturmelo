@@ -10,3 +10,6 @@
 
 vitor.melo.faria@escola.pr.gov.br
 ou pelo insta @vitorarturmelo
+
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![](https://avatars.githubusercontent.com/u/4975968?s=280&v=4)](https://www.alura.com.br/)
